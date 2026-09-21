@@ -1,17 +1,17 @@
 # Atividade de Entrega — Algoritmos e Programação (Java)
 
-Exercícios práticos em Java - Entrada de dados, processamento e estruturas de decisão.
+Repositório com os 12 exercícios práticos de entrada de dados, processamento e estruturas de decisão em Java.
 
-## Exercícios
-- `exercicio01cadastrosimplesMain.java`: Cadastro simples
-- `exercicio02conversortemperaturaMain.java`: Conversor de temperatura (Celsius -> Fahrenheit)
-- `exercicio03areaperimetroMain.java`: Área e perímetro de retângulo
-- `exercicio04salarioMain.java`: Cálculo de salário bruto
-- `exercicio05maioridadeMain.java`: Verificação de maioridade
-- `exercicio06situacaoacademicaMain.java`: Média e situação acadêmica
-- `exercicio07positivonegativoMain.java`: Número positivo ou negativo
-- `exercicio08descontoMain.java`: Desconto em compra
-- `exercicio09consumocombustivelMain.java`: Consumo de combustível
-- `exercicio10freteMain.java`: Cálculo de frete
-- `exercicio11pagamentohorasbonificacaoMain.java`: Pagamento de horas com bonificação
-- `exercicio12desafiofinalMain.java`: Desafio final (Comissão de vendas)
+## Estrutura dos Exercícios
+- `exercicio-01-cadastro-simples/Main.java`: Cadastro simples
+- `exercicio-02-conversor-temperatura/Main.java`: Conversor de Celsius para Fahrenheit
+- `exercicio-03-area-perimetro/Main.java`: Cálculo de área e perímetro
+- `exercicio-04-salario/Main.java`: Cálculo de salário bruto
+- `exercicio-05-maioridade/Main.java`: Verificação de maioridade
+- `exercicio-06-situacao-academica/Main.java`: Situação acadêmica (média e aprovação)
+- `exercicio-07-positivo-negativo/Main.java`: Verificação de número positivo/negativo
+- `exercicio-08-desconto/Main.java`: Cálculo de desconto condicional
+- `exercicio-09-consumo-combustivel/Main.java`: Consumo de combustível e classificação
+- `exercicio-10-frete/Main.java`: Cálculo de frete grátis/pago
+- `exercicio-11-pagamento-bonificacao/Main.java`: Pagamento de horas com bonificação
+- `exercicio-12-desafio-final/Main.java`: Desafio final (Comissão de vendas)
